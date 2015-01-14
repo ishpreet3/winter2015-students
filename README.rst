@@ -21,7 +21,6 @@ These should be ordered by surname & first name, within each set.
 Set  Username   Surname  First Name 
 ===  =========  =======  =============
 4G   A00770012  Liu      Ming-Hsuan
-===  =========  =======  =============
 4G   ishpreet3  Rattan   Ishpreet
 ===  =========  =======  =============
 
